@@ -2,6 +2,11 @@
 
 This is a hotel booking dashboard built with React.js. It provides a user-friendly interface for managing hotel bookings and reservations.
 
+## Links
+
+- [Live Demo on Vercel](https://elaskry-hotel.vercel.app)
+- [Live Demo on Netlify](https://elaskry-hotel.netlify.app)
+
 ## Features
 
 - **User Authentication**: Users can sign up, log in, and log out. Authentication is handled using [Supabase](https://supabase.com).
